@@ -74,5 +74,3 @@ while True:
        
     else:
         break
-
-print("nih")
